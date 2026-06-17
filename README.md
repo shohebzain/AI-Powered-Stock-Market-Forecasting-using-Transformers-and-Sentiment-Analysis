@@ -31,8 +31,8 @@ See [frontend/README.md](frontend/README.md) and [backend/README.md](backend/REA
 
 ## Project Assets
 
-- `apple_stock_data.csv` — Historical stock data
-- `*.h5` / `*.keras` — Trained LSTM and Transformer models
+- `apple_stock_data.csv` — Historical stock data.
+- `*.h5` / `*.keras` — Trained LSTM and Transformer models.
 
 ## Disclaimer
 
